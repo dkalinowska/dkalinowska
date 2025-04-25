@@ -1,7 +1,7 @@
 # Dominika Kalinowska
 
 **Quality Assurance Specialist**  
-I work in the banking sector, focusing on test automation, process modeling, and tools that support building reliable software.
+I work in the banking sector, focusing on test automation and tools that support building reliable software.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dkalinowska-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/dkalinowska)  
 📧 [d.kalinowska.priv@gmail.com](mailto:d.kalinowska.priv@gmail.com)
